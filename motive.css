@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#poppy{
+    border: 5px solid white;
+    width: 50%;
+}
+
+#spa{
+    margin: 10rem;
+}
+
+#me{
+    float: right;
+    margin-top: 50px;
+    margin-right: 500px;
+    color: darkgray;
+}
